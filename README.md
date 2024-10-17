@@ -1,6 +1,7 @@
 # AECRETEC
 
-AECRETEC Enables Creative Realizations, Empowering Technology for Everyone's Creations
+AECRETEC Enables Creative Realizations, Empowering Technology for Everyone's Creations.
+（元々はAECRETEC is Everyone's CREative TEChnology.の再帰的頭字語"的"な名前の投稿サイトアイディアでした）
 
 ## プロジェクト概要
 
