@@ -1,0 +1,9 @@
+{
+  "name": "aecretec",
+  "version": "1.0.0",
+  "description": "AECRETEC project",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "build": "echo \"No build specified\" && exit 0"
+  }
+}
