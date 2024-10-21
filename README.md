@@ -40,3 +40,7 @@ AECRETECプロジェクトは概念段階のオープンソース提案であり
 ## コンタクト
 
 プロジェクトに関するご質問や提案がある場合は、Issuesセクションをご利用ください。
+
+## コミュニティディスカッション
+
+プロジェクトに関する質問や提案は、[GitHub Discussions](https://github.com/yourusername/AECRETEC/discussions)で行ってください。
