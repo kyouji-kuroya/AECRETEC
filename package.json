@@ -7,7 +7,7 @@
     "start": "node src/index.js",
     "test": "jest",
     "build": "echo 'No build step required'"
-  }
+  },
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.5.1"
