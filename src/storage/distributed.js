@@ -22,6 +22,17 @@ class DistributedStorage {
     this.store('file1', 'Content of file 1');
     console.log('Retrieved:', this.retrieve('file1'));
   }
+
+  listKeys() {
+    return Array.from(this.storage.keys());
+  }
+
+  removeKey(key) {
+    if (typeof key !== 'string') {
+      throw new TypeError('Key must be a string');
+    }
+    return this.storage.delete(key);
+  }
 }
 
 module.exports = DistributedStorage;

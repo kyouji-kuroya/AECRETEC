@@ -44,3 +44,30 @@ AECRETECプロジェクトは概念段階のオープンソース提案であり
 ## コミュニティディスカッション
 
 プロジェクトに関する質問や提案は、[GitHub Discussions](https://github.com/yourusername/AECRETEC/discussions)で行ってください。
+
+## モジュール説明
+
+### PoSTコンセンサスメカニズム
+PoST（Proof of Space-Time）は、ノードのストレージ容量と時間を考慮したコンセンサスメカニズムです。
+
+主な機能：
+- ノードの追加: `addNode(nodeId, space, time)`
+- コンセンサス計算: `calculateConsensus()`
+
+### 分散ストレージシステム
+データを分散して保存するシステムです。
+
+主な機能：
+- データの保存: `store(key, value)`
+- データの取得: `retrieve(key)`
+- キーの一覧取得: `listKeys()`
+- キーの削除: `removeKey(key)`
+
+### Arsumトークン
+プロジェクト内で使用される仮想通貨トークンです。
+
+主な機能：
+- トークンの発行: `mint(address, amount)`
+- トークンの転送: `transfer(from, to, amount)`
+- 残高確認: `getBalance(address)`
+- 総供給量の取得: `getTotalSupply()`

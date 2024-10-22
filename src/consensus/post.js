@@ -19,6 +19,16 @@ class PoST {
     this.addNode('node2', 200, 48);
     console.log('Nodes:', Object.fromEntries(this.nodes));
   }
+
+  calculateConsensus() {
+    let totalSpace = 0;
+    let totalTime = 0;
+    this.nodes.forEach(node => {
+      totalSpace += node.space;
+      totalTime += node.time;
+    });
+    return { totalSpace, totalTime, nodeCount: this.nodes.size };
+  }
 }
 
 module.exports = PoST;

@@ -29,6 +29,14 @@ class ArsumToken {
     console.log('User1 balance:', this.balances.get('user1'));
     console.log('User2 balance:', this.balances.get('user2'));
   }
+
+  getBalance(address) {
+    return this.balances.get(address) || 0;
+  }
+
+  getTotalSupply() {
+    return Array.from(this.balances.values()).reduce((a, b) => a + b, 0);
+  }
 }
 
 module.exports = ArsumToken;
