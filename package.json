@@ -5,9 +5,9 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "test": "jest"
+    "test": "jest",
     "build": "echo 'No build step required'"
-  },
+  }
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.5.1"
