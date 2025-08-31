@@ -1,0 +1,5 @@
+private/
+GEMINI.md
+.github/
+.gemini/
+gha-creds-*.json
