@@ -123,4 +123,10 @@ AECRETEC は完成を目的としない。
 
 ---
 
+## 関連文書
+
+- 📘 [要求定義書2026 — AECRETEC](REQUIREMENTS-2026.md)
+
+---
+
 *Published under CC-BY-SA-4.0*
