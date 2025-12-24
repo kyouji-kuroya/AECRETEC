@@ -1,5 +1,7 @@
 # AECRETEC 要求定義書 2026  
 *AECRETEC System Requirements 2026*
+> 本要求定義書は、以下の思想憲章に基づいて策定されている。  
+> 詳細は「[AECRETEC 思想憲章（Charter）](CHARTER.md)」を参照されたい。
 
 ---
 
