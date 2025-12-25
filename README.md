@@ -21,8 +21,8 @@ AECRETECは全ての創作物の表現と実在、自由と権利、創作に触
 
 AECRETEC は、創作物や研究成果を**検閲や消失から守りつつ**、創作者が**正当に報われる**ことを目指す分散的な保存・流通の設計思想・要求定義です。  
 主要ドキュメント（本リポジトリ）:
-- `CHARTER.md` — [思想憲章 / Charter](CHARTER.md)（何を成し、何を成さないか）  
-- `REQUIREMENTS-2026.md` — [要求定義書 2026 / Requirements 2026](REQUIREMENTS-2026.md)（設計要求／運用原則）
+- [CHARTER.md](CHARTER.md) — 思想憲章 / Charter（何を成し、何を成さないか）  
+- [REQUIREMENTS-2026.md](REQUIREMENTS-2026.md) — 要求定義書 2026 / Requirements 2026（設計要求／運用原則）
 
 ---
 
@@ -41,15 +41,9 @@ AECRETEC は、創作物や研究成果を**検閲や消失から守りつつ**�
 
 ---
 
-## note マガジン
-
-この構想・思索は note のマガジン **「イントロンの白昼夢」** にて随時まとめ・公開します。記事へのリンクは随時 README に追加します。
-
----
-
 ## 連絡先
 
 リポジトリオーナー: `kyouji-kuroya`（GitHub アカウント）  
-個別連絡は note のプロフィール／GitHub profile 経由を推奨します。
+個別連絡は GitHub profile 経由を推奨します。
 
 ---
