@@ -5,6 +5,9 @@ AECRETECは全ての創作物の表現と実在、自由と権利、創作に触
 
 ---
 
+## English
+- [English README](en/README.md)
+
 ## About / 名称の由来
 
 **AECRETEC** は意図的に拡張可能な表現であり、遊び心を含む語源説明として次の一節が使われます（参考）:  
