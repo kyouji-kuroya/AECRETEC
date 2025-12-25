@@ -1,5 +1,9 @@
 # AECRETEC Requirements 2026
 
+> This requirements document is based on the principles defined in the
+> AECRETEC Charter (English): [en/CHARTER.md](en/CHARTER.md)
+> and on the original Japanese version: [CHARTER.md](../CHARTER.md)
+
 ---
 
 ## License
