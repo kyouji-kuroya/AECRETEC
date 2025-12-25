@@ -122,10 +122,10 @@ An internal label must include at minimum:
 
 ---
 
-## 7. Re-wrapping and re-issuance
+## 7. Rewrapping and Reissuance
 
-- Bare copies and redistributed copies with identical content may be re-integrated into legitimate distribution by re-issuing wrappers, subject to the rules enforced by smart contracts or equivalent authorization logic.
-- Each rewrap must be recorded and traceable.
+- Bare copies and redistributed copies with identical content may be reintegrated into legitimate distribution by reissuing wrappers, subject to the rules enforced by smart contracts or equivalent authorization logic.
+- Each rewrapping must be recorded and traceable.
 
 ---
 
