@@ -101,7 +101,7 @@ This charter marks the non-negotiable line for future implementations.
 
 ## Related Documents (English)
 
-- 📘 [AECRETEC Requirements 2026 (English)](en/REQUIREMENTS-2026.md)
+- 📘 [AECRETEC Requirements 2026 (English)](REQUIREMENTS-2026.md)
 - 📜 [Original Japanese Charter](../CHARTER.md)
 
 ---
