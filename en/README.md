@@ -41,4 +41,4 @@ The documents in this repository are published under the **Creative Commons Attr
 ## Contact
 
 Repository owner: `kyouji-kuroya` (GitHub account)
-Please use note profile or GitHub profile for contact.
+Please use GitHub profile for contact.
