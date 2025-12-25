@@ -30,7 +30,7 @@ Identity of a work is defined by its content (the byte sequence / content identi
 
 AECRETEC does not centrally judge the moral or artistic quality of content. Operators (nodes) are responsible for compliance with the laws and regulations of their jurisdiction.
 
-The protocol itself does not provide mechanisms for arbitrary centralized deletion or unjustified take-down.
+The protocol itself does not provide mechanisms for arbitrary centralized deletion or unjustified takedown.
 
 ---
 
