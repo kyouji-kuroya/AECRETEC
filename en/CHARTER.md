@@ -52,7 +52,7 @@ However, because of the public-good nature of many materials, the system does no
 
 ### 5. Transparency and Verifiability
 
-Significant operations (issuance, distribution, rights assignment, re-wrapping) must be recorded in verifiable ways. Privileged or hidden operations are not allowed.
+Significant operations (issuance, distribution, rights assignment, rewrapping) must be recorded in verifiable ways. Privileged or hidden operations are not allowed.
 
 ---
 
