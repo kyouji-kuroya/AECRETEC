@@ -5,6 +5,9 @@ AECRETEC supports the expression, existence, freedom and rights of all creative 
 
 ---
 
+## Original(Japanese)
+- [Original README](../README.md)
+
 ## About / Name origin
 
 **AECRETEC** is intentionally expandable as a phrase. One illustrative expansion is:  
