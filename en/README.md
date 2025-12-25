@@ -26,7 +26,7 @@ Primary documents in this repository (English):
 
 ## License
 
-The documents in this repository are published under the **Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)** license. Please see the `LICENSE` file for details.
+The documents in this repository are published under the **Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)** license. Please see the `../LICENSE` file for details.
 
 ---
 
