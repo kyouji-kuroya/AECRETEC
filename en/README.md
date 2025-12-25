@@ -22,8 +22,8 @@ This phrase serves as an explanatory origin; the project places greater emphasis
 AECRETEC is a design and requirements set for a distributed preservation and distribution system that protects creative works and research from censorship and loss while ensuring creators can be fairly rewarded.
 
 Primary documents in this repository (English):
-- `CHARTER.md` — AECRETEC Charter (principles and boundaries)
-- `REQUIREMENTS-2026.md` — AECRETEC Requirements 2026 (system requirements and operational principles)
+- [CHARTER.md](CHARTER.md) — AECRETEC Charter (principles and boundaries)
+- [REQUIREMENTS-2026.md](REQUIREMENTS-2026.md) — AECRETEC Requirements 2026 (system requirements and operational principles)
 
 ---
 
