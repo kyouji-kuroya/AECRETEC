@@ -91,6 +91,18 @@ AECRETEC is not intended to be run, controlled, or owned exclusively by any sing
 
 ---
 
+## Addendum: Diversity of operating environments and the principle of technical non-exclusion
+
+Users operate within diverse social, legal, and technical environments, and it must be acknowledged that these differences can — and do — lead to undue restrictions on the freedom to create and publish.
+
+AECRETEC does not position itself as an authority to judge or remedy such restrictions. At the same time, the project will not, on the basis that those restrictions exist, preemptively exclude particular technical choices or connection modalities from its design.
+
+The Project aims to be an infrastructure that leaves, as far as practicable, the selection of communication means, network topologies, access routes, and operational modes to the discretion of users and node operators. This stance does not mean that AECRETEC exists to enable anonymization or evasion of lawful controls; rather, it is a principle intended to avoid hard-coding limitations on expression, creation, or preservation that may arise from the environments in which people live.
+
+Final decisions about which methods to use and which risks to accept rest with the individual user and with each node operator. AECRETEC will respect those decisions while striving to remain a platform capable of long-term preservation and distribution of cultural works and knowledge.
+
+---
+
 ## Closing
 
 AECRETEC is not aimed at completion; it aims for inheritance — to be carried forward, reinterpreted, and reimplemented.
