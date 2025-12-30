@@ -181,5 +181,17 @@ An internal label must include at minimum:
 
 ---
 
+## Addendum: Encryption, metadata and anonymous networks (summary)
+
+1. Client-side end-to-end encryption (E2E) should be optionally supported for uploads. When E2E is chosen, nodes must only store encrypted blobs; key distribution methods (recipients-only, threshold sharing, trusted third party) are selectable by the client.
+
+2. On-chain is the catalogue: minimally `CID`, `creator_DID` (pseudonymous), `issued_at`, `rights_metadata_hash` and `rights_status`. Operational/internal labels (holder_did_hash, issuer_node, issued_at, rental_until, tx_id, node_signature) are stored off-chain and by default hashed/encrypted.
+
+3. The project should **not preclude** access over anonymous networks such as Tor (this is a recommended design stance, not a mandatory implementation). Users in high-risk contexts are encouraged to follow OPSEC best practices.
+
+4. Orphan/legacy media (where originals are lost) may be preserved, but preservation (archive) and distribution (commercial release) must be strictly separated. Revenue from such works must be escrowed until legitimate rights are proven; absent proof, commercial distribution should be prohibited by default.
+
+---
+
 *Requirements defined for 2026 and beyond*  
 *Published under CC-BY-SA-4.0*
